@@ -1,0 +1,15 @@
+{
+  "name": "car",
+  "version": "1.0.0",
+  "description": "- AI 社会\r    人人AI   SDK   百度大脑\r    大数据+算法提供识别\r    人工智能",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "baidu-aip-sdk": "^2.4.4"
+  }
+}
